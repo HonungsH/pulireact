@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class PulireactApplication {
-
+// Test
     public static void main(String[] args) {
         SpringApplication.run(PulireactApplication.class, args);
     }
